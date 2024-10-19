@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu331&label=Profile%20views&color=0e75b6&style=flat" alt="anshu331" /> </p>
 
-- 🔭 I’m currently working on **Online Hotel Booking Management System**
+- 🔭 I’m currently working on **Online Taxi Booking application**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://anshu-bishwas-portfolio.vercel.app/](https://anshu-bishwas-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, PHP and SQL**
+- 💬 Ask me about **MWEN and SQL**
 
 - 📫 How to reach me **anshubishwas0@gmail.com**
 
