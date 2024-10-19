@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anshu-bishwas-portfolio.vercel.app/](https://anshu-bishwas-portfolio.vercel.app/)
 
-- 💬 Ask me about **MWEN and SQL**
+- 💬 Ask me about **MERN and SQL**
 
 - 📫 How to reach me **anshubishwas0@gmail.com**
 
